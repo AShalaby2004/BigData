@@ -1,0 +1,16 @@
+value counts per column:
+Age                          60
+BMI                         218
+Blood_Pressure               90
+Cholesterol_Level           150
+Glucose_Level               130
+Smoking_Habit                 3
+Physical_Activity_Level       3
+Family_History                2
+Gender                        2
+Smoking_Habit_Code            3
+Physical_Activity_Code        3
+Alcohol_Consumption_Code      3
+Gender_Code                   2
+Has_Disease                   2
+dtype: int64

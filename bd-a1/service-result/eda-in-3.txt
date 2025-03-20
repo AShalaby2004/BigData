@@ -1,0 +1,16 @@
+Missing values count  column:
+Age                         0
+BMI                         0
+Blood_Pressure              0
+Cholesterol_Level           0
+Glucose_Level               0
+Smoking_Habit               0
+Physical_Activity_Level     0
+Family_History              0
+Gender                      0
+Smoking_Habit_Code          0
+Physical_Activity_Code      0
+Alcohol_Consumption_Code    0
+Gender_Code                 0
+Has_Disease                 0
+dtype: int64
